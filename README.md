@@ -7,7 +7,7 @@ A modern portfolio website built with React, TypeScript, and Tailwind CSS.
 ## Live Demo
 
 - [View Demo](https://your-deployment-url.vercel.app)
-- [GitHub Repo](https://github.com/badalku27/Figma_design)
+- [GitHub Repo](https://github.com/badalku27/Digital-creative-studio)
 
 ## About This Project
 
@@ -251,28 +251,8 @@ frontend-developer-assignment/
 
 **Total Time**: ~21 hours
 
-## 🚀 Deployment
 
-### Vercel (Recommended)
 
-1. Push code to GitHub repository
-2. Import project in Vercel dashboard
-3. Vercel auto-detects Vite configuration
-4. Deploy with one click
-
-### Netlify
-
-1. Connect GitHub repository
-2. Build command: `npm run build`
-3. Publish directory: `dist`
-4. Deploy
-
-### Manual Deployment
-
-```bash
-npm run build
-# Upload dist/ folder to your hosting provider
-```
 
 ## 📄 License
 
