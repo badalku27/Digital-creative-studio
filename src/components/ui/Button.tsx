@@ -1,8 +1,8 @@
-import { FC, ButtonHTMLAttributes } from 'react';
-import { motion } from 'framer-motion';
+import { FC } from 'react';
+import { motion, HTMLMotionProps } from 'framer-motion';
 import { cn } from '@/utils/helpers';
 
-interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+interface ButtonProps extends Omit<HTMLMotionProps<'button'>, 'children'> {
   variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
   size?: 'sm' | 'md' | 'lg';
   fullWidth?: boolean;
