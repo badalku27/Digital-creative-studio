@@ -93,7 +93,7 @@ npm install
 npm run dev
 ```
 
-Go to http://localhost:3000 and you should see it running!
+Go to the original link and you should see it running!
 
 ## Commands
 
