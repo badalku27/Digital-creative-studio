@@ -15,8 +15,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/frontend-developer-assignment.git
-cd frontend-developer-assignment
+git clone https://github.com/badalku27/Digital-creative-studio.git
+cd Digital-creative-studio
 ```
 
 ### 2. Install Dependencies
@@ -47,7 +47,9 @@ yarn dev
 pnpm dev
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at `http://localhost:5173`
+
+**Live Demo:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 
 ### 4. Build for Production
 

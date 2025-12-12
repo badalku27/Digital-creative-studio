@@ -17,7 +17,7 @@ If not installed, download from: https://nodejs.org/
 ### Step 2: Navigate to Project Directory
 
 ```powershell
-cd f:\Figma_design
+cd f:\Digital_creative_studio
 ```
 
 ### Step 3: Install Dependencies
@@ -38,7 +38,7 @@ Expected output:
 ```
   VITE v5.2.0  ready in 500 ms
 
-  ➜  Local:   http://localhost:3000/
+  ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
@@ -47,7 +47,9 @@ Expected output:
 
 The terminal will show the URL. Either:
 - Hold `Ctrl` and click the link, or
-- Open your browser and go to: `http://localhost:3000`
+- Open your browser and go to: `http://localhost:5173`
+
+**Live Demo:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 
 ### Step 6: Make Changes (Optional)
 

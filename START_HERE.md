@@ -16,7 +16,9 @@ npm install
 ```powershell
 npm run dev
 ```
-✅ Open http://localhost:3000 in your browser
+✅ Open http://localhost:5173 in your browser
+
+🌐 **Live Demo:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 
 ### 3️⃣ Start Coding!
 Make changes to files in `src/` and see them update instantly! 🎨

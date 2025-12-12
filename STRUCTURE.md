@@ -1,7 +1,7 @@
 # Project Structure
 
 ```
-frontend-developer-assignment/
+digital-creative-studio/
 │
 ├── 📁 .vscode/                      # VS Code configuration
 │   ├── extensions.json             # Recommended extensions
