@@ -6,7 +6,7 @@ A modern portfolio website built with React, TypeScript, and Tailwind CSS.
 
 ## Live Demo
 
-- [View Demo](https://your-deployment-url.vercel.app)
+- [View Demo](https://digital-creative-studio.vercel.app)
 - [GitHub Repo](https://github.com/badalku27/Digital-creative-studio)
 
 ## About This Project
@@ -79,9 +79,7 @@ You'll need Node.js installed on your computer.
 
 **1. Download the code:**
 ```bash
-git clone https://github.com/badalku27/Figma_design.git
-cd Figma_design
-```
+
 
 **2. Install everything:**
 ```bash
@@ -93,7 +91,9 @@ npm install
 npm run dev
 ```
 
-Go to the original link and you should see it running!
+Go to http://localhost:5173 (or the URL shown in terminal) to see it running!
+
+**Or visit the live site:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 
 ## Commands
 

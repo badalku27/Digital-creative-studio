@@ -2,6 +2,7 @@
   "name": "digital-creative-studio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://digital-creative-studio.vercel.app",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
