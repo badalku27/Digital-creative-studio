@@ -38,7 +38,7 @@ Expected output:
 ```
   VITE v5.2.0  ready in 500 ms
 
-  ➜  Local:   http://localhost:5173/
+  ➜  Local:   http://localhost:3000/
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
@@ -47,7 +47,7 @@ Expected output:
 
 The terminal will show the URL. Either:
 - Hold `Ctrl` and click the link, or
-- Open your browser and go to: `http://localhost:5173`
+- Open your browser and go to: `http://localhost:3000`
 
 **Live Demo:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 

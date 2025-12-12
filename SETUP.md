@@ -47,7 +47,7 @@ yarn dev
 pnpm dev
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `http://localhost:3000`
 
 **Live Demo:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 

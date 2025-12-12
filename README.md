@@ -91,7 +91,7 @@ npm install
 npm run dev
 ```
 
-Go to http://localhost:5173 (or the URL shown in terminal) to see it running!
+Go to http://localhost:3000 (or the URL shown in terminal) to see it running!
 
 **Or visit the live site:** [digital-creative-studio.vercel.app](https://digital-creative-studio.vercel.app)
 
